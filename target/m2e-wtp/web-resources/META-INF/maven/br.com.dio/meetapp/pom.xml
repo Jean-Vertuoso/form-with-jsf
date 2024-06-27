@@ -35,8 +35,6 @@
 			<artifactId>primefaces</artifactId>
 			<version>14.0.1</version>
 		</dependency>
-
-
 	</dependencies>
 
 	<build>
