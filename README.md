@@ -31,4 +31,5 @@ Com a utilização do escopo de "Sessão", os dados permanecem no navegador até
 
 Jean da Rocha Vertuoso
 
-https://github.com/Jean-Vertuoso
+[![NPM](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jean-Vertuoso) 
+[![NPM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-da-rocha-vertuoso/) 
